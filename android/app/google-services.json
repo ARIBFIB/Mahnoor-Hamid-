@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628563639903",
+    "project_id": "coin-lark",
+    "storage_bucket": "coin-lark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628563639903:android:8f0430a986ce75df2725ea",
+        "android_client_info": {
+          "package_name": "com.example.coinlark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtKPa-bYlRTi5h8q8K8E7W3btMpiuJUBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
